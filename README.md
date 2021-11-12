@@ -1,6 +1,6 @@
 # covariantqec
 
-Here we provide codes for "Optimal Universal Quantum Error Correction via Bounded Reference Frames".
+Here we provide codes for "Optimal Universal Quantum Error Correction via Bounded Reference Frames".\\
 These codes are written in Python, and can be run with Jupter Notebook. English version and Chinese version are both provided.
 
 The file "github_five_qubit_covariant_Fent_BellRF" is used to get the fidelity entanglement for i.i.d. depolarizing/dephasing error, with N maximally entangled states being the reference state.
