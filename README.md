@@ -21,3 +21,6 @@ Outline of these files:
 2. Numerical Tests  
   2.1 Get the entanglement fidelity for different N  
   2.2 Do fitting and draw the figure.
+
+Note: We use "Paddle Quantum" as subroutines to solve some optimization problems, e.g. majority vote algorithm.
+      To install it, see "https://qml.baidu.com/install/installation_guide.html".
